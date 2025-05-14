@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{176139F3-D5FB-4959-B51C-DE176A203C7F}|WindowsFormsAppSTO.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\formorderschange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{176139F3-D5FB-4959-B51C-DE176A203C7F}|WindowsFormsAppSTO.csproj|solutionrelative:formorderschange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176139F3-D5FB-4959-B51C-DE176A203C7F}|WindowsFormsAppSTO.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\formservicechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{176139F3-D5FB-4959-B51C-DE176A203C7F}|WindowsFormsAppSTO.csproj|solutionrelative:formservicechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176139F3-D5FB-4959-B51C-DE176A203C7F}|WindowsFormsAppSTO.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\formservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176139F3-D5FB-4959-B51C-DE176A203C7F}|WindowsFormsAppSTO.csproj|solutionrelative:formservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176139F3-D5FB-4959-B51C-DE176A203C7F}|WindowsFormsAppSTO.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\windowsformsappsto\\formservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{176139F3-D5FB-4959-B51C-DE176A203C7F}|WindowsFormsAppSTO.csproj|solutionrelative:formservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176139F3-D5FB-4959-B51C-DE176A203C7F}|WindowsFormsAppSTO.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\formorderschange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176139F3-D5FB-4959-B51C-DE176A203C7F}|WindowsFormsAppSTO.csproj|solutionrelative:formorderschange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176139F3-D5FB-4959-B51C-DE176A203C7F}|WindowsFormsAppSTO.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\formauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176139F3-D5FB-4959-B51C-DE176A203C7F}|WindowsFormsAppSTO.csproj|solutionrelative:formauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176139F3-D5FB-4959-B51C-DE176A203C7F}|WindowsFormsAppSTO.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\formorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176139F3-D5FB-4959-B51C-DE176A203C7F}|WindowsFormsAppSTO.csproj|solutionrelative:formorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176139F3-D5FB-4959-B51C-DE176A203C7F}|WindowsFormsAppSTO.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\formorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{176139F3-D5FB-4959-B51C-DE176A203C7F}|WindowsFormsAppSTO.csproj|solutionrelative:formorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176139F3-D5FB-4959-B51C-DE176A203C7F}|WindowsFormsAppSTO.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\formauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{176139F3-D5FB-4959-B51C-DE176A203C7F}|WindowsFormsAppSTO.csproj|solutionrelative:formauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormOrdersChange.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\FormOrdersChange.cs",
+              "RelativeDocumentMoniker": "FormOrdersChange.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\FormOrdersChange.cs",
+              "RelativeToolTip": "FormOrdersChange.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAiwK0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T21:19:47.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormOrdersChange.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\FormOrdersChange.cs",
+              "RelativeDocumentMoniker": "FormOrdersChange.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\FormOrdersChange.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormOrdersChange.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T21:19:44.583Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormServiceChange.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\FormServiceChange.cs",
+              "RelativeDocumentMoniker": "FormServiceChange.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\FormServiceChange.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormServiceChange.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T21:19:35.652Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormServices.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\FormServices.cs",
+              "RelativeDocumentMoniker": "FormServices.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\FormServices.cs*",
+              "RelativeToolTip": "FormServices.cs*",
+              "ViewState": "AgIAADoAAAAAAAAAAAArwGMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:09:15.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormServices.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\FormServices.cs",
+              "RelativeDocumentMoniker": "FormServices.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\FormServices.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "FormServices.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:01:24.504Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormOrders.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\FormOrders.cs",
+              "RelativeDocumentMoniker": "FormOrders.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\FormOrders.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormOrders.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:27:53.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormOrders.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\FormOrders.cs",
+              "RelativeDocumentMoniker": "FormOrders.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\FormOrders.cs",
+              "RelativeToolTip": "FormOrders.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAASwEoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:56:33.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormAuthorization.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\FormAuthorization.cs",
+              "RelativeDocumentMoniker": "FormAuthorization.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\FormAuthorization.cs",
+              "RelativeToolTip": "FormAuthorization.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:56:02.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormAuthorization.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\FormAuthorization.cs",
+              "RelativeDocumentMoniker": "FormAuthorization.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppSTO\\FormAuthorization.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormAuthorization.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:55:58.492Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

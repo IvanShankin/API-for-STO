@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\source\repos\WindowsFormsAppSTO\bin\ARM64\Debug\WindowsFormsAppSTO.exe.config
+C:\Users\Дмитрий\source\repos\WindowsFormsAppSTO\bin\ARM64\Debug\WindowsFormsAppSTO.exe
+C:\Users\Дмитрий\source\repos\WindowsFormsAppSTO\bin\ARM64\Debug\WindowsFormsAppSTO.pdb
+C:\Users\Дмитрий\source\repos\WindowsFormsAppSTO\obj\ARM64\Debug\WindowsFormsAppSTO.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\WindowsFormsAppSTO\obj\ARM64\Debug\WindowsFormsAppPolyclinic.Form1.resources
+C:\Users\Дмитрий\source\repos\WindowsFormsAppSTO\obj\ARM64\Debug\WindowsFormsAppSTO.FormOrders.resources
+C:\Users\Дмитрий\source\repos\WindowsFormsAppSTO\obj\ARM64\Debug\WindowsFormsAppSTO.FormOrdersChange.resources
+C:\Users\Дмитрий\source\repos\WindowsFormsAppSTO\obj\ARM64\Debug\WindowsFormsAppSTO.FormPayment.resources
+C:\Users\Дмитрий\source\repos\WindowsFormsAppSTO\obj\ARM64\Debug\WindowsFormsAppSTO.FormServiceChange.resources
+C:\Users\Дмитрий\source\repos\WindowsFormsAppSTO\obj\ARM64\Debug\WindowsFormsAppSTO.FormServices.resources
+C:\Users\Дмитрий\source\repos\WindowsFormsAppSTO\obj\ARM64\Debug\WindowsFormsAppSTO.Properties.Resources.resources
+C:\Users\Дмитрий\source\repos\WindowsFormsAppSTO\obj\ARM64\Debug\WindowsFormsAppSTO.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\WindowsFormsAppSTO\obj\ARM64\Debug\WindowsFormsAppSTO.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\WindowsFormsAppSTO\obj\ARM64\Debug\WindowsFormsAppSTO.exe
+C:\Users\Дмитрий\source\repos\WindowsFormsAppSTO\obj\ARM64\Debug\WindowsFormsAppSTO.pdb
